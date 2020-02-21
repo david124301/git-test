@@ -9,6 +9,7 @@ public class FirstClass {
         System.out.println("Hello git project");
         System.out.println("Hello git project");
     }
+    //撒大声地所
     public void test(){
         int i=0;
         i+=10;
